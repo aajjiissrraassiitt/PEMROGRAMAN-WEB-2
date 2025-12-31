@@ -21,7 +21,7 @@ Project ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web 2**.
 ![Login](assets/images/login_karyawan.png)
 
 ### 📊 Dashboard Karyawan
-![Dashboard](assets/images/dashboard_karyawan.png)
+![Dashboard](assets/images/dahboard_karyawan.png)
 
 ### 🕒 Halaman Absensi
 ![Absensi](assets/images/absen_karyawan.png)
