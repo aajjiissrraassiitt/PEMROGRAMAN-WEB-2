@@ -1,0 +1,9 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#f5f6fa;margin:0} 
+.login-box{width:320px;margin:80px auto;padding:20px;background:#fff;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.1)}
+.login-box input{width:100%;padding:8px;margin:6px 0}
+.login-box button{width:100%;padding:10px;background:#27ae60;color:#fff;border:0;border-radius:4px}
+.error{background:#e74c3c;color:#fff;padding:8px;border-radius:4px;margin-bottom:10px}
+table{width:100%;border-collapse:collapse;background:#fff}
+table th, table td{padding:8px;border:1px solid #ddd}
+.button{padding:6px 10px;border-radius:4px;text-decoration:none;background:#2980b9;color:#fff}
+.form-inline input, .form-inline select{padding:6px;margin-right:6px}
