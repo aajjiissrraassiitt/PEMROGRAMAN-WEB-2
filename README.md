@@ -21,10 +21,10 @@ Project ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web 2**.
 ![Login](assets/images/login_karyawan.png)
 
 ### 📊 Dashboard Karyawan
-![Dashboard](assets/images/dashboard_karywan.png)
+![Dashboard](assets/images/dashboard_karyawan.png)
 
 ### 🕒 Halaman Absensi
-![Absensi](assets/images/absens_karyawan.png)
+![Absensi](assets/images/absen_karyawan.png)
 
 ### 🕒 Halaman Absensku
 ![Absensi](assets/images/absenku_karyawan.png)
@@ -39,10 +39,10 @@ Project ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Web 2**.
 ![Dashboard](assets/images/dashboard_admin.png)
 
 ### 📊 Halaman Manajemen Divisi
-![Absensi](assets/images/manajemen_divisi.png)
+![Absensi](assets/images/manajemen_divis.png)
 
 ### 📊 Halaman Manajemen Jam Kerja 
-![Absensi](assets/images/manajemen_Jam_kerja.png)
+![Absensi](assets/images/manajemen_jam_kerja.png)
 
 ### 📊 Halaman Manajemen Karyawan 
 ![Absensi](assets/images/manajemen_karyawan.png)
